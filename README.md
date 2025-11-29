@@ -49,17 +49,12 @@ Space-Sciences-and-Astrodynamics/
 ├── .github/workflows/
 ├── doc/source/
 ├── plots/
-├── curtis_scripts/
+├── Howard_D_Curtis_curtis_scripts/
 │   ├── python/
-├── course_scripts/
-├── tests/
+├── Class_room_course_scripts/
+├── Test_Scripts/
 │   ├── python/   
 ├── Algorithm_Number_Reference.md
-├── CHANGELOG.md
-├── CMakeLists.txt
-├── LICENSE
-├── pyproject.toml
-├── CHANGELOG.md
 └── README.md
 ```
 
