@@ -93,7 +93,7 @@ Space-Sciences-and-Astrodynamics/
   - Consistent angle representation is required for astrodynamics, robotics, and other applications.
   - Improved readability and usability of angular calculations are beneficial in workflows.
 
-![atan2d_0_360_plot.png]((plots/atan2d_0_360_plot.png))
+![atan2d_0_360_plot.png](https://github.com/manivipul7/Orbital-Mechanics-for-Engineering-Students-by-Howard-D.-Curtis/tree/main/plots/atan2d_0_360_plot.png)
 
 ---
 
